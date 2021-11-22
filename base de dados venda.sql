@@ -1,0 +1,6 @@
+create database vendas;
+
+
+
+
+
